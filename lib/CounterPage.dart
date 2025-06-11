@@ -1,4 +1,3 @@
-// Stateful widget for counter
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -12,10 +11,9 @@ class CounterPage extends StatefulWidget {
 class _CounterPageState extends State<CounterPage> {
   int _counter = 0; // State variable
 
-  // Function to increase the counter
   void _incrementCounter() {
     setState(() {
-      _counter++; // Changes the state and rebuilds UI
+      _counter++;
     });
   }
 
