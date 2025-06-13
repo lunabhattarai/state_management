@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "flutter_application_1.app"
+=======
+               BuildableName = "flutter_app.app"
+>>>>>>> 4755f80563a67f4e3e7cd4e02da30bfd250fa185
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_application_1.app"
+=======
+            BuildableName = "flutter_app.app"
+>>>>>>> 4755f80563a67f4e3e7cd4e02da30bfd250fa185
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -59,14 +67,21 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
+<<<<<<< HEAD
       enableGPUValidationMode = "1"
+=======
+>>>>>>> 4755f80563a67f4e3e7cd4e02da30bfd250fa185
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_application_1.app"
+=======
+            BuildableName = "flutter_app.app"
+>>>>>>> 4755f80563a67f4e3e7cd4e02da30bfd250fa185
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +98,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_application_1.app"
+=======
+            BuildableName = "flutter_app.app"
+>>>>>>> 4755f80563a67f4e3e7cd4e02da30bfd250fa185
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
